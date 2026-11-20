@@ -107,9 +107,9 @@ It highlights how raw retail sales data can be transformed into meaningful busin
 
 ## 👨‍💻 Author
 
-**Your Name**
+Your Name: Divyanshu Kasaudhan
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GitHub: https://github.com/divyanshukasaudhan
 - Project: Retail Sales Data Analysis
 - Skills: Excel | Power Query | Data Cleaning | Data Analysis | Dashboard Development
 
