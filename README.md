@@ -61,6 +61,10 @@ The interactive Excel dashboard includes:
 - Date Filters
 - Customer Segment Filters
 
+## 📸 Dashboard Preview
+
+![Retail Sales Dashboard](Dashboard/Dashboard_Screenshot.png)
+
 ## 🎯 Business Recommendations
 
 1. Focus on high-performing and profitable products.
