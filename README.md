@@ -63,7 +63,7 @@ The interactive Excel dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard](Dashboard/Dashboard_Screenshot.png)
+![Retail Sales Dashboard](Dashboard/Dashboard_Screenshot264.png)
 
 ## 🎯 Business Recommendations
 
