@@ -63,7 +63,9 @@ The interactive Excel dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard]"C:\Users\uubca\OneDrive\Pictures\Screenshots\Screenshot (264).png"
+## 📸 Dashboard Preview
+
+![Retail Sales Dashboard](Dashboard/Dashboard_Screenshot (264).png)
 
 ## 🎯 Business Recommendations
 
