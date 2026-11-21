@@ -65,6 +65,7 @@ The interactive Excel dashboard includes:
 
 ![Retail Sales Dashboard](Dashboard/Dashboard_Screenshot.png)
 
+
 ## 🎯 Business Recommendations
 
 1. Focus on high-performing and profitable products.
